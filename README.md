@@ -93,6 +93,17 @@ Improving delivery infrastructure in low-demand regions could:
 * Revealed strong demand concentration in key states
 * Highlighted opportunities for logistics optimization and expansion
 
+---
+
+## 📊 Estimated Impact
+
+If delivery time in high-delay regions (RR, AP, AM) is reduced by 20%:
+
+- Customer satisfaction is expected to improve  
+- Potential increase in repeat purchases  
+- Reduced delivery-related complaints  
+
+This highlights the business value of optimizing logistics in remote areas.
 
 ---
 
