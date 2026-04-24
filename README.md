@@ -22,6 +22,14 @@ Brazilian E-commerce Public Dataset (Olist)
 
 ---
 
+## 📂 Project Structure
+
+- `ecommerce_analysis.ipynb` — data cleaning and analysis  
+- `Dashboard.png` — dashboard preview  
+- `README.md` — project documentation
+
+---
+
 ## 📊 Dashboard
 
 ![Dashboard](Dashboard.png)
