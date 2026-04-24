@@ -26,7 +26,7 @@ Brazilian E-commerce Public Dataset (Olist)
 
 ![Dashboard](Dashboard.png)
 
-🔗 Live Dashboard: [https://public.tableau.com/...](https://public.tableau.com/views/E-CommerceDeliveryAnalysis/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+View Interactive Dashboard on Tableau: [https://public.tableau.com/...](https://public.tableau.com/views/E-CommerceDeliveryAnalysis/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
