@@ -1,9 +1,10 @@
-# 📦 E-Commerce Delivery Performance Dashboard
+# 📦 E-Commerce Delivery & Sales Analysis
 
 ## 📌 Project Overview
 
-This project analyzes a Brazilian e-commerce dataset to evaluate **sales trends, regional demand, and delivery performance**.
-The goal is to identify inefficiencies in logistics and uncover opportunities to improve customer experience.
+This project analyzes a Brazilian e-commerce dataset to explore sales trends, regional demand distribution, and delivery performance.
+
+The objective is to identify logistical inefficiencies and uncover data-driven opportunities to improve delivery efficiency and customer experience.
 
 ---
 
@@ -60,23 +61,30 @@ Brazilian E-commerce Public Dataset (Olist)
 
 ### 1. Demand Concentration
 
-High order volumes are concentrated in a small number of states, especially **São Paulo (SP)**.
+Order volume is highly concentrated in a few states, with **São Paulo (SP)** dominating significantly.
 
 ### 2. Demand vs Delivery Efficiency
 
-High-demand regions (SP, RJ, MG) have **faster delivery times**, indicating more optimized logistics.
+High-demand regions (SP, RJ, MG) show faster delivery times, suggesting more efficient logistics and better infrastructure.
 
 ### 3. Regional Inequality in Delivery
 
-Remote states (RR, AP, AM) experience **significantly longer delivery times**, suggesting logistical challenges.
+Remote states (RR, AP, AM) experience **significantly longer delivery times**, highlighting geographic and logistical constraints.
 
 ### 4. Business Opportunity
 
 Improving delivery infrastructure in low-demand regions could:
 
-* reduce delays
+* reduce delivery delays
 * increase customer satisfaction
 * expand market reach
+
+## 📌 Business Impact
+
+* Identified regions with inefficient delivery performance
+* Revealed strong demand concentration in key states
+* Highlighted opportunities for logistics optimization and expansion
+
 
 ---
 
